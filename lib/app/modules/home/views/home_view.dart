@@ -122,9 +122,7 @@ class _HomeViewState extends State<HomeView> {
               ),
             ),
 
-            // ============================
-            //   ⬇️  PRODUK 4 ROW × 2 KOLOM
-            // ============================
+        
             Column(
               children: [
                 Row(
